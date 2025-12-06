@@ -1,0 +1,5 @@
+data/
+lfw/
+*.zip
+*.tar
+*.tar.gz
