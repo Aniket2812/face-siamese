@@ -1,4 +1,5 @@
 data/
+training_checkpoints/
 lfw/
 *.zip
 *.tar
