@@ -1,5 +1,6 @@
 data/
 training_checkpoints/
+siamese_model.pth
 lfw/
 *.zip
 *.tar
