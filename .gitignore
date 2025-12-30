@@ -1,6 +1,9 @@
 data/
+venv/
 training_checkpoints/
 application_data/
+app/application_data/
+app/siamese_model.pth
 siamese_model.pth
 lfw/
 *.zip
